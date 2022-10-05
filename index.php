@@ -53,7 +53,7 @@ background-attachment:fixed;
 
          </style>
 </head>
-<body onload="stop_Spinner()">
+<body >
   
 
 
