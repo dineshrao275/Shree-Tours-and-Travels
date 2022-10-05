@@ -153,11 +153,11 @@ echo "</div>";
 </script>
 
 <Script>
-    var loading=document.getElementById('load');
-    function stop_Spinner()
-    {
-        loading.style.display='none';
-    }
+//     var loading=document.getElementById('load');
+//     function stop_Spinner()
+//     {
+//         loading.style.display='none';
+//     }
 </Script>
 
 </body>
