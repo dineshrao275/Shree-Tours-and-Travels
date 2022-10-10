@@ -66,7 +66,6 @@ echo"<div class='head'>";
     include("header.php");
    echo "</div>";
 
-   echo "<div id='load'>"; include("preloader.php"); echo "</div>";
 
 
 //     rating 
@@ -152,13 +151,7 @@ echo "</div>";
   }
 </script>
 
-<Script>
-    var loading=document.getElementById('load');
-    function stop_Spinner()
-    {
-        loading.style.display='none';
-    }
-</Script>
+
 
 </body>
 </html>
